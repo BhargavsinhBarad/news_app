@@ -1,5 +1,4 @@
 
-https://github.com/BhargavsinhBarad/news_app/assets/118417960/4c3e8ab8-750d-4259-b322-fe546b70a67f
 <div align="center">
 
 
@@ -19,4 +18,5 @@ https://github.com/BhargavsinhBarad/news_app/assets/118417960/4c3e8ab8-750d-4259
 
 
 ## 📽️video
-<video src='Uploading WhatsApp Video 2024-04-19 at 4.35.13 PM.mp4…' width="180px">
+
+https://github.com/BhargavsinhBarad/news_app/assets/118417960/4c3e8ab8-750d-4259-b322-fe546b70a67f
